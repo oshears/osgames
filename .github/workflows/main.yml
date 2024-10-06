@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    defaults:
+      run:
+        working-directory: ./quartz
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,14 +27,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Go to quartz directory
-        run: cd quartz
       - name: Install Dependencies
         run: npm ci
-        working-directory: ./quartz
       - name: Build Quartz
         run: npx quartz build
-        working-directory: ./quartz
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
