@@ -79,11 +79,16 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: nu
 <rss version="2.0">
     <channel>
       <title>${escapeHTML(cfg.pageTitle)}</title>
-      <link>https://${base}</link>
+      <link>${base}</link>
       <description>${!!limit ? i18n(cfg.locale).pages.rss.lastFewNotes({ count: limit }) : i18n(cfg.locale).pages.rss.recentNotes} on ${escapeHTML(
         cfg.pageTitle,
       )}</description>
       <generator>OS Games -- oshears.github.io/osgames</generator>
+      <image>
+        <url>https://oshears.github.io/osgames/Media/osgames_logo_devlog.png</url>
+        <title>OSGames Devlog!</title>
+        <link>${base}</link>
+      </image>
       ${items}
     </channel>
   </rss>`
