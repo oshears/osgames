@@ -3,6 +3,8 @@ date: 2024-10-06
 tags:
   - projects/untitled-alien-game
 ---
+![[osgames_logo_devlog.png]]
+
 This week I added a lot of cool features to the game!
 
 The game is inspired by the [Nemesis Board Game (BoardGameGeek)](https://boardgamegeek.com/boardgame/167355/nemesis)!

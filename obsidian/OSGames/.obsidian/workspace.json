@@ -12,9 +12,29 @@
             "id": "68bc3ccf7b2e0b7c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/osgames_logo_devlog.png"
+              }
+            }
+          },
+          {
+            "id": "4f331a3b796338b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/osgames_logo_header.png"
+              }
+            }
+          },
+          {
+            "id": "c163b293f48a3be5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +52,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9d300a05de81828f",
@@ -113,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md"
               }
             }
           }
@@ -175,14 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68bc3ccf7b2e0b7c",
+  "active": "c163b293f48a3be5",
   "lastOpenFiles": [
+    "Media/osgames_logo_header.png",
+    "index.md",
+    "Media/osgames_logo_devlog.png",
+    "Media",
     "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
     "404 Page.md",
     "REAPER (Digital Audio Workstation).md",
     "Untitled Alien Game/Untitled Alien Game.md",
-    "index.md",
     "Welcome.md",
     "Untitled Alien Game"
   ]
