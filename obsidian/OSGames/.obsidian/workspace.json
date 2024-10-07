@@ -6,7 +6,6 @@
       {
         "id": "c151b0a03b70d052",
         "type": "tabs",
-        "dimension": 63.5673624288425,
         "children": [
           {
             "id": "68bc3ccf7b2e0b7c",
@@ -27,48 +26,9 @@
                 "file": "Media/osgames_logo_header.png"
               }
             }
-          },
-          {
-            "id": "c163b293f48a3be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2de138d05157cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "9d300a05de81828f",
-        "type": "tabs",
-        "dimension": 36.43263757115749,
-        "children": [
-          {
-            "id": "7a4266bc7326d237",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md",
+                "file": "Media/osgames_logo_header.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md",
+                "file": "Media/osgames_logo_header.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md"
+                "file": "Media/osgames_logo_header.png"
               }
             }
           }
@@ -196,12 +156,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c163b293f48a3be5",
+  "active": "4f331a3b796338b5",
   "lastOpenFiles": [
+    "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
+    "miscellaneous notes and thoughts.md",
+    "Untitled Alien Game/Untitled Alien Game Project Planning.md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs",
+    "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
     "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md",
+    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
+    "Templates/Alien Game Devlog Template.md",
+    "Templates",
     "Untitled Alien Game/Untitled Alien Game.md",
-    "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Media/osgames_logo_header.png",
     "index.md",
     "Media/osgames_logo_devlog.png",
