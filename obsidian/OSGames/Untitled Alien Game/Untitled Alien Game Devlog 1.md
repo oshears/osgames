@@ -1,5 +1,7 @@
 ---
 date: 2024-10-06
+tags:
+  - projects/untitled-alien-game
 ---
 This week I added a lot of cool features to the game!
 

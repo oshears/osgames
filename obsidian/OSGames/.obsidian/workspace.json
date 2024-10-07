@@ -6,6 +6,7 @@
       {
         "id": "c151b0a03b70d052",
         "type": "tabs",
+        "dimension": 63.5673624288425,
         "children": [
           {
             "id": "298d532126e7c90c",
@@ -37,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,6 +50,7 @@
       {
         "id": "9d300a05de81828f",
         "type": "tabs",
+        "dimension": 36.43263757115749,
         "children": [
           {
             "id": "7a4266bc7326d237",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md"
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md"
               }
             }
           }
@@ -188,10 +190,12 @@
   },
   "active": "b2de138d05157cee",
   "lastOpenFiles": [
-    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
-    "index.md",
+    "REAPER (Digital Audio Workstation).md",
+    "Untitled Alien Game/Untitled Alien Game.md",
+    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
     "404 Page.md",
+    "index.md",
     "Welcome.md",
     "Untitled Alien Game"
   ]
