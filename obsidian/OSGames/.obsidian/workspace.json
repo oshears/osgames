@@ -9,18 +9,6 @@
         "dimension": 63.5673624288425,
         "children": [
           {
-            "id": "298d532126e7c90c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68bc3ccf7b2e0b7c",
             "type": "leaf",
             "state": {
@@ -38,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9d300a05de81828f",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlog 1.md"
+                "file": "index.md"
               }
             }
           }
@@ -188,13 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2de138d05157cee",
+  "active": "68bc3ccf7b2e0b7c",
   "lastOpenFiles": [
+    "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
+    "404 Page.md",
     "REAPER (Digital Audio Workstation).md",
     "Untitled Alien Game/Untitled Alien Game.md",
-    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
-    "404 Page.md",
     "index.md",
     "Welcome.md",
     "Untitled Alien Game"

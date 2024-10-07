@@ -1,9 +1,8 @@
 ---
-title: OSGames
+title: Welcome to my development webiste!
 tags:
   - "#osgames"
 ---
-# OSGames
 Welcome to my development blog!
 
 
