@@ -21,9 +21,11 @@
             "id": "4f331a3b796338b5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/osgames_logo_header.png"
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/osgames_logo_header.png",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/osgames_logo_header.png",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/osgames_logo_header.png"
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md"
               }
             }
           }
@@ -158,12 +160,14 @@
   },
   "active": "4f331a3b796338b5",
   "lastOpenFiles": [
-    "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
-    "miscellaneous notes and thoughts.md",
-    "Untitled Alien Game/Untitled Alien Game Project Planning.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+    "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
+    "Untitled Alien Game/Untitled Alien Game.md",
+    "Untitled Alien Game/Untitled Alien Game Project Planning.md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
+    "Media/osgames_logo_header.png",
+    "miscellaneous notes and thoughts.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs",
     "Untitled Alien Game/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
@@ -171,8 +175,6 @@
     "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
     "Templates/Alien Game Devlog Template.md",
     "Templates",
-    "Untitled Alien Game/Untitled Alien Game.md",
-    "Media/osgames_logo_header.png",
     "index.md",
     "Media/osgames_logo_devlog.png",
     "Media",

@@ -39,3 +39,5 @@ My end goal is to develop this game with control support for the Nintendo Switch
 In September I did a lot of work setting up the foundation of the game. I create a basic player heads up display (HUD) inspired by [[Dead Space]]. This was my big idea for trying to make common elements of board games and RPGs, and bring them closer to being part of the world in the game, without losing that sense of immersion and crowding the user with overlay menus. Using this action system, players can select actions to perform, not too dissimilar from turn based tactical rpgs like [[Baldur's Gate 3]]
 
 This week I added a lot of cool features to the game! I am very excited about getting a solid architecture going that is pretty easy to build upon!
+
+<iframe src="https://drive.google.com/file/d/1MuZjClF3s7DxqJNocTXcU7OiNZSMXPrb/preview" width="640" height="480" allow="autoplay"></iframe>
