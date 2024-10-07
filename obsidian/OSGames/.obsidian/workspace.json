@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2de138d05157cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9d300a05de81828f",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs.md"
               }
             }
           }
@@ -174,12 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68bc3ccf7b2e0b7c",
+  "active": "b2de138d05157cee",
   "lastOpenFiles": [
+    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
     "index.md",
-    "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
-    "Untitled Alien Game",
-    "Welcome.md"
+    "404 Page.md",
+    "Welcome.md",
+    "Untitled Alien Game"
   ]
 }

@@ -1,3 +1,6 @@
+---
+date: 2024-10-06
+---
 This week I added a lot of cool features to the game!
 
 The game is inspired by the [Nemesis Board Game]([Nemesis | Board Game | BoardGameGeek](https://boardgamegeek.com/boardgame/167355/nemesis))!

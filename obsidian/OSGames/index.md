@@ -1,3 +1,8 @@
+---
+title: OSGames
+tags:
+  - "#osgames"
+---
 # OSGames
 Welcome to my development blog!
 
