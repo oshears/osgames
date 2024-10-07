@@ -1,3 +1,4 @@
+import { boolean } from "yargs"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -5,7 +6,18 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'oshears/osgames',
+        repoId:'R_kgDOM8ZZwg',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOM8ZZws4CjHzk',
+        reactionsEnabled: true
+      }
+    })
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
