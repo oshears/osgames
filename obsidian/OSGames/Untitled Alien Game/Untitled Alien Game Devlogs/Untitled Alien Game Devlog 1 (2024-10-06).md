@@ -36,10 +36,48 @@ Thus, with all of these great sources of inspiration, I now began my journey int
 My end goal is to develop this game with control support for the Nintendo Switch and Steam Deck. I have been dying to make a game for Nintendo all my life, so I hope a project of this scale and scope will be interesting enough to permit me access to the Nintendo Developer Program and Nintendo Switch Dev Kit. I feel like this is a perfect time to start making this game for the switch too given the imminent announcement of the Nintendo Switch 2!
 # How's progress going?
 
-In September I did a lot of work setting up the foundation of the game. I create a basic player heads up display (HUD) inspired by [[Dead Space]]. This was my big idea for trying to make common elements of board games and RPGs, and bring them closer to being part of the world in the game, without losing that sense of immersion and crowding the user with overlay menus. Using this action system, players can select actions to perform, not too dissimilar from turn based tactical rpgs like [[Baldur's Gate 3]]
+In September I did a lot of work setting up the foundation of the game. I create a basic player heads up display (HUD) inspired by [[Dead Space]]. This was my big idea for trying to make common elements of board games and RPGs, and bring them closer to being part of the world in the game, without losing that sense of immersion and crowding the user with overlay menus. Using this action system, players can select actions to perform, not too dissimilar from turn based tactical rpgs like [[Baldur's Gate 3]].
 
-This week I added a lot of cool features to the game! I am very excited about getting a solid architecture going that is pretty easy to build upon!
+This week I added a lot of cool features to the game! I am very excited about getting a solid architecture going that is pretty easy to build upon! Check out the videos below to see where things are at!
 
-<iframe src="https://drive.google.com/file/d/1MuZjClF3s7DxqJNocTXcU7OiNZSMXPrb/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1MuZjClF3s7DxqJNocTXcU7OiNZSMXPrb/preview" height="480" allow="autoplay" style="overflow:hidden;height:100%;width:100%"></iframe>
+*Here's some early general footage of the game and what it looks like so far!*
 
-<iframe src="https://drive.google.com/file/d/1BTpZMsmpWlHfHCGifEcZ1bVhkK_Tm3pG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1BTpZMsmpWlHfHCGifEcZ1bVhkK_Tm3pG/preview" height="480" allow="autoplay" style="overflow:hidden;height:100%;width:100%"></iframe>
+*This early footage shows the new fire control, door control, and navigation control systems that I added. I was able to very quickly make these in only about 5-10 hours total!*
+
+This week I put in a lot of work on the systems of the ship. As shown in the clips above, I created in game menus for the following systems:
+- Igniting and extinguishing fires in the fire control room
+- Updating the ship's route via the navigation control room
+- Configuring the state of the engines using the engine control terminal
+- Opening and closing doors on the ship using the door control terminal 
+
+These were all relatively easy systems to implement, especially thanks to the prefabs and general game architecture that I was able to set up.
+
+Some of the major remaining systems that I still have to implement include the following:
+- The combat systems for engaging with the aliens.
+- The item system for using items in your inventory. This includes crafting items as well.
+- The alien system for managing alien movements throughout the ship.
+- The player health system for managing critical and light wounds.
+- The infection and contamination system.
+- Player specific actions
+
+Some more minor interactable systems include:
+- Interacting with the escape pods
+- Interacting with the hibernation control
+- Traversal through technical corridors
+
+# What's the plan for next week?
+
+While working with my team at [[Triple Calvera]], Evan introduced to me the concept of *Agile Development*. I really resonated with the idea of sprints and stories and would like to continue this project management style. Thus, here's the story I am hoping to fulfill for this week's sprint:
+
+
+> [!summary] Untitled Alien Game Sprint 2 (2024-10-14)
+> - Players will be able to smoothly move between at least 4 rooms in a loop and interact with their systems.
+> - Players will trigger an alien encounter when they make too much noise in the rooms. The aliens will approach the player and cause the combat phase to begin.
+> 
+
+I think this is a good next story to work on because it will give me more of the backbone for the game. I'll be able to actually have the main feature of the gameplay in place - the horrific alien encounters. If I can get this system set up, then I can continue working towards the final game by implementing all of the small subsystems, while having the base of a playable game in tact.
+
+In addition to getting this up and running, for the story after this one, I would like to get the basics of multiplayer implemented. I will consider starting with a couch coop version that I can easily prototype with Gia, then I will move on to an online networked version that I can begin sharing with others.
