@@ -11,26 +11,15 @@
             "id": "68bc3ccf7b2e0b7c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/osgames_logo_devlog.png"
-              }
-            }
-          },
-          {
-            "id": "4f331a3b796338b5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Reflections/Domain-Based Working.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Reflections/Domain-Based Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Reflections/Domain-Based Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md"
+                "file": "Reflections/Domain-Based Working.md"
               }
             }
           },
@@ -161,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,11 +167,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f331a3b796338b5",
+  "active": "359bdde9576c8aec",
   "lastOpenFiles": [
+    "Media/osgames_logo_devlog.png",
+    "Reflections/Domain-Based Working.md",
+    "Reflections",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "Untitled Alien Game/Untitled Alien Game.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
     "My Favorite Tactical Turn Based Games.md",
     "Miscellaneous Thoughts",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
@@ -198,7 +190,6 @@
     "Templates/Alien Game Devlog Template.md",
     "Templates",
     "index.md",
-    "Media/osgames_logo_devlog.png",
     "Media",
     "404 Page.md",
     "REAPER (Digital Audio Workstation).md",
