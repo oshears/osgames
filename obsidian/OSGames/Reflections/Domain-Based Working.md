@@ -1,8 +1,9 @@
 ---
 date: 2024-10-09
+tags:
+  - reflection
+  - gamedev
 ---
-#reflection #gamedev
-
 I find it easiest to be productive during times of low motivation if I just stick to one area of development on my project and enter the [[flow state]].
 
 For example, during the past two weeks I was able to lock in for coding ([[Untitled Alien Game Devlog 1 (2024-10-06)|see the devlog here]]) and pump out a bunch of new systems. For coding it definitely helped that I planned things out away from the computer first.
