@@ -90,4 +90,4 @@ In addition to getting this up and running, for the story after this one, I woul
 | Wednesday, October 9th | Finish basic combat system and encounters with aliens                                                          |
 | Thursday, October 10th | Implement local multiplayer turn switching between players and cycling between alien event loop                |
 | Friday, October 11th   | Add player locations and alien locations to map<br><br>_Bonus_: Add room names to the map as they are revealed |
-| Saturday, October 12th | Search action and collect items<br><br>_Basic_: Basic crafting                                                 |
+| Saturday, October 12th | Search action and collect items<br><br>_Bonus_: Basic crafting                                                 |
