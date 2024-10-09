@@ -151,13 +151,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a3a7c38a5e0de588",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

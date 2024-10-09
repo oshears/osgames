@@ -41,11 +41,11 @@ In September I did a lot of work setting up the foundation of the game. I create
 This week I added a lot of cool features to the game! I am very excited about getting a solid architecture going that is pretty easy to build upon! Check out the videos below to see where things are at!
 
 <iframe src="https://drive.google.com/file/d/1MuZjClF3s7DxqJNocTXcU7OiNZSMXPrb/preview" height="480" allow="autoplay" style="overflow:hidden;height:100%;width:100%"></iframe>
-*Here's some early general footage of the game and what it looks like so far!*
+_Here's some early general footage of the game and what it looks like so far!_
 
 
 <iframe src="https://drive.google.com/file/d/1BTpZMsmpWlHfHCGifEcZ1bVhkK_Tm3pG/preview" height="480" allow="autoplay" style="overflow:hidden;height:100%;width:100%"></iframe>
-*This early footage shows the new fire control, door control, and navigation control systems that I added. I was able to very quickly make these in only about 5-10 hours total!*
+_This early footage shows the new fire control, door control, and navigation control systems that I added. I was able to very quickly make these in only about 5-10 hours total!_
 
 This week I put in a lot of work on the systems of the ship. As shown in the clips above, I created in game menus for the following systems:
 - Igniting and extinguishing fires in the fire control room
@@ -81,3 +81,13 @@ While working with my team at [[Triple Calvera]], Evan introduced to me the conc
 I think this is a good next story to work on because it will give me more of the backbone for the game. I'll be able to actually have the main feature of the gameplay in place - the horrific alien encounters. If I can get this system set up, then I can continue working towards the final game by implementing all of the small subsystems, while having the base of a playable game in tact.
 
 In addition to getting this up and running, for the story after this one, I would like to get the basics of multiplayer implemented. I will consider starting with a couch coop version that I can easily prototype with Gia, then I will move on to an online networked version that I can begin sharing with others.
+
+
+## Working Schedule for Next Week
+
+| Date                   | Main Tasks                                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Wednesday, October 9th | Finish basic combat system and encounters with aliens                                                          |
+| Thursday, October 10th | Implement local multiplayer turn switching between players and cycling between alien event loop                |
+| Friday, October 11th   | Add player locations and alien locations to map<br><br>_Bonus_: Add room names to the map as they are revealed |
+| Saturday, October 12th | Search action and collect items<br><br>_Basic_: Basic crafting                                                 |
