@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b1eb1ba8cded31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Reflections/Domain-Based Working.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,12 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "359bdde9576c8aec",
+  "active": "9b1eb1ba8cded31c",
   "lastOpenFiles": [
-    "Media/osgames_logo_devlog.png",
-    "Reflections/Domain-Based Working.md",
-    "Reflections",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+    "Reflections/Domain-Based Working.md",
+    "Media/osgames_logo_devlog.png",
+    "Reflections",
     "Untitled Alien Game/Untitled Alien Game.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
     "My Favorite Tactical Turn Based Games.md",
