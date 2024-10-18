@@ -16,7 +16,9 @@
                 "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Alien Game Devlog 1 (2024-10-06)"
             }
           },
           {
@@ -25,10 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled Alien Game Devlog 2 (2024-10-13)"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled Alien Game Devlog 2 (2024-10-13)"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled Alien Game Devlog 2 (2024-10-13)"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md"
-              }
+                "file": "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled Alien Game Devlog 2 (2024-10-13)"
             }
           },
           {
@@ -151,23 +169,17 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "a3a7c38a5e0de588",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +194,16 @@
   },
   "active": "9b1eb1ba8cded31c",
   "lastOpenFiles": [
-    "Reflections/Domain-Based Working.md",
+    "index.md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+    "Reflections/Domain-Based Working.md",
     "Media/osgames_logo_devlog.png",
     "Reflections",
     "Untitled Alien Game/Untitled Alien Game.md",
     "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
     "My Favorite Tactical Turn Based Games.md",
     "Miscellaneous Thoughts",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
     "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
     "Untitled Alien Game/Untitled Alien Game Project Planning.md",
     "Media/osgames_logo_header.png",
@@ -202,7 +215,6 @@
     "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
     "Templates/Alien Game Devlog Template.md",
     "Templates",
-    "index.md",
     "Media",
     "404 Page.md",
     "REAPER (Digital Audio Workstation).md",

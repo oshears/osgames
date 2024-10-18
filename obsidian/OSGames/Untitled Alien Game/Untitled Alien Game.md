@@ -13,13 +13,17 @@ For more information about the origins of this project and my sources of inspira
 
 
 # Development Roadmap
+
+^development-roadmap
+
 - [x] **Week 1 & 2**: Game Architecture and Foundation
 - [x] **Week 3**: Ship layout, Audio Setup and movement between rooms
 - [x] **Week 4**: Basic System Systems ([[Untitled Alien Game Devlog 1 (2024-10-06)|Devlog #1]])
 - [ ] **Week 5**: Alien Encounters ([[Untitled Alien Game Devlog 2 (2024-10-13)|Devlog #2]])
-- [ ] **Week 6**: Multiplayer Gameplay
-- [ ] **Week 7**: More ship systems
-- [ ] **Week 8**: More player systems
+- [ ] **Week 6**: Basic Actions & Local Multiplayer Gameplay
+- [ ] **Week 7**: Room Actions & More ship systems
+- [ ] **Week 8**: Item actions and more player systems
+- [ ] **Week 9**: Events and effects
 - [ ] **Week 14 & 15**: Playtest and Polish
 - [ ] **Week 16**: Release!
 
@@ -31,6 +35,10 @@ For more information about the origins of this project and my sources of inspira
 | 3    |                                                              |                                               |
 | 4    | Development of basic ship systems (fire, doors, coordinates) | [[Untitled Alien Game Devlog 1 (2024-10-06)]] |
 | 5    | Development of alien system                                  | [[Untitled Alien Game Devlog 2 (2024-10-13)]] |
+| 6    | Development of basic player actions                          |                                               |
+| 7    | Development of room actions and more ship systems            |                                               |
+| 8    | Development of item actions and more player systems          |                                               |
+| 9    | Events and effects                                           |                                               |
 
 # Game Design and Development
 - In various [[Untitled Alien Game Devlogs|devlogs]] I discuss my week by week process for building out the game and the detailed design choices I've made.
