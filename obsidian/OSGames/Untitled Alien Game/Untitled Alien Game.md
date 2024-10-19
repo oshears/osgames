@@ -16,16 +16,17 @@ For more information about the origins of this project and my sources of inspira
 
 ^development-roadmap
 
-- [x] **Week 1 & 2**: Game Architecture and Foundation
+- [x] **Week 1 & 2**: Game Architecture and Foundation (~September 2024)
 - [x] **Week 3**: Ship layout, Audio Setup and movement between rooms
 - [x] **Week 4**: Basic System Systems ([[Untitled Alien Game Devlog 1 (2024-10-06)|Devlog #1]])
-- [ ] **Week 5**: Alien Encounters ([[Untitled Alien Game Devlog 2 (2024-10-13)|Devlog #2]])
-- [ ] **Week 6**: Basic Actions & Local Multiplayer Gameplay
+- [x] **Week 5**: Alien Encounters ([[Untitled Alien Game Devlog 2 (2024-10-13)|Devlog #2]])
+- [x] **Week 6**: Basic Actions & ~~Local Multiplayer Gameplay~~ item system ([[Untitled Alien Game Devlog 3 (2024-10-20)|Devlog #3]])
 - [ ] **Week 7**: Room Actions & More ship systems
 - [ ] **Week 8**: Item actions and more player systems
 - [ ] **Week 9**: Events and effects
+- [ ] **Week 10:** Local Multiplayer Gameplay
 - [ ] **Week 14 & 15**: Playtest and Polish
-- [ ] **Week 16**: Release!
+- [ ] **Week 16**: Release! (~January 2024)
 
 
 | Week | Description                                                  | Devlog                                        |
@@ -35,7 +36,7 @@ For more information about the origins of this project and my sources of inspira
 | 3    |                                                              |                                               |
 | 4    | Development of basic ship systems (fire, doors, coordinates) | [[Untitled Alien Game Devlog 1 (2024-10-06)]] |
 | 5    | Development of alien system                                  | [[Untitled Alien Game Devlog 2 (2024-10-13)]] |
-| 6    | Development of basic player actions                          |                                               |
+| 6    | Development of basic player actions and items                | [[Untitled Alien Game Devlog 3 (2024-10-20)]] |
 | 7    | Development of room actions and more ship systems            |                                               |
 | 8    | Development of item actions and more player systems          |                                               |
 | 9    | Events and effects                                           |                                               |
