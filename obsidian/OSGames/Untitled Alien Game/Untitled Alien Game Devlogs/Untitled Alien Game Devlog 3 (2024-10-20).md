@@ -2,8 +2,7 @@
 tags:
   - project/alien-game
 description: A summary of the new movement capabilities and item system.
-title: 
-draft: "false"
+title:
 ---
 ![[osgames_logo_devlog.png]]
 # Overview

@@ -2,7 +2,6 @@
 date: 2024-10-19
 title: Productivity Tips
 description: Tips for maximizing my output.
-draft: "false"
 ---
 # Overview
 

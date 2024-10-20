@@ -1,5 +1,5 @@
 ---
-title: Welcome to my development webiste!
+title: OSGames Development Studio
 tags:
   - "#osgames"
 aliases:
