@@ -51,7 +51,8 @@ Often times when developing I have to decide whether to spend time investing in 
 
 ![](https://www2.trainingbible.com/joesblog/uploaded_images/Risk-Reward-775722.png)
 
-![[Drawing 2024-10-19 08.02.40.excalidraw]]
+%%  ![[Drawing 2024-10-19 08.02.40.excalidraw]]%%
+![[Drawing 2024-10-19 08.02.40.excalidraw.svg]]
 
 ## Board Game Prototyping
 One important thing that I am beginning for value more with the game design process is prototyping things in a low fidelity format. The game that is inspiring me, Nemesis, is a board game with all of these complex and interesting systems that interact with each other. It would take quite a bit of development effort to come up with both the design for this game, playtest it and then develop the art and video game versions for them alone. But by having the game in a simple board game format they can have complex and engaging gameplay without having to write a bunch of code.

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "oshears.github.io/osgames/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Excalidraw"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

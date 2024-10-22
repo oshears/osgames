@@ -7,6 +7,8 @@
 npx quartz build --serve --directory ../obsidian/OSGames/
 ```
 
+It is hosted at: http://localhost:8080/
+
 # Quartz Theme Configuration
 - https://quartz.jzhao.xyz/configuration
 
