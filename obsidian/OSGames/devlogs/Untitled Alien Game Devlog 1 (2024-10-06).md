@@ -2,6 +2,7 @@
 date: 2024-10-06
 tags:
   - projects/untitled-alien-game
+  - "#devlog"
 description: My first devlog for Untitled Alien Game!
 title: Untitled Alien Game Devlog 1
 ---

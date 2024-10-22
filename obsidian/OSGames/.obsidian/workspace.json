@@ -27,30 +27,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous notes and thoughts.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miscellaneous notes and thoughts"
+              "title": "index"
             }
           },
           {
             "id": "043ac64b2d0cd259",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-19 08.02.40.excalidraw"
+            }
+          },
+          {
+            "id": "14d3ec872b8ec93f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
+                "file": "Templates/Alien Game Devlog Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled Alien Game Mechanics and Systems"
+              "title": "Alien Game Devlog Template"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,24 +214,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "043ac64b2d0cd259",
+  "active": "9b1eb1ba8cded31c",
   "lastOpenFiles": [
-    "Untitled Alien Game/Untitled Alien Game Project Planning.md",
-    "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
-    "Untitled Alien Game/Untitled Alien Game.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 3 (2024-10-20).md",
+    "devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
+    "devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
+    "devlogs/Untitled Alien Game Devlog 3 (2024-10-20).md",
+    "devlogs",
+    "posts/Test Post.md",
+    "posts",
+    "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md",
+    "Templates/Alien Game Devlog Template.md",
     "Miscellaneous Thoughts/Productivity Tips.md",
     "Miscellaneous Thoughts/Miscellaneous Thoughts.md",
     "Miscellaneous Thoughts/Reflections/Domain-Based Working.md",
-    "index.md",
     "miscellaneous notes and thoughts.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 2 (2024-10-13).md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlog 1 (2024-10-06).md",
-    "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.svg",
+    "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
+    "Untitled Alien Game/Untitled Alien Game Project Planning.md",
+    "Untitled Alien Game/Untitled Alien Game.md",
+    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
+    "index.md",
     "Excalidraw",
     "Media/osgames_logo_devlog.png",
     "Miscellaneous Thoughts/Reflections",
@@ -231,7 +249,6 @@
     "Untitled Alien Game/Untitled Alien Game Devlogs.md",
     "Untitled Alien Game/Untitled Alien Game Devlog 2 (2024-10-13).md",
     "Untitled Alien Game/Untitled Alien Game Devlog 1.md",
-    "Templates/Alien Game Devlog Template.md",
     "Templates",
     "Media",
     "404 Page.md",

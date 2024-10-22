@@ -5,6 +5,7 @@
 # Serve for local testing
 ```bash
 npx quartz build --serve --directory ../obsidian/OSGames/
+npx quartz build --serve -v --directory ../obsidian/OSGames/
 ```
 
 It is hosted at: http://localhost:8080/

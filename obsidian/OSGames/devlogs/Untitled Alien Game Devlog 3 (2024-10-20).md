@@ -1,8 +1,9 @@
 ---
 tags:
-  - project/alien-game
+  - "#devlog"
+  - "#projects/untitled-alien-game"
 description: A summary of the new movement capabilities and item system.
-title:
+title: Untitled Alien Game Devlog 3
 ---
 ![[osgames_logo_devlog.png]]
 # Overview
@@ -51,7 +52,7 @@ Often times when developing I have to decide whether to spend time investing in 
 
 ![](https://www2.trainingbible.com/joesblog/uploaded_images/Risk-Reward-775722.png)
 
-%%  ![[Drawing 2024-10-19 08.02.40.excalidraw]]%%
+<!--  ![[Drawing 2024-10-19 08.02.40.excalidraw]]%% -->
 ![[Drawing 2024-10-19 08.02.40.excalidraw.svg]]
 
 ## Board Game Prototyping

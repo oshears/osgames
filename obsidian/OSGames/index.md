@@ -9,6 +9,7 @@ description: Osaze Shears' personal game development website.
 ![[osgames_logo_header.png]]
 Welcome to my development blog!
 
+<!--
 # Recent Posts
 
 | [[Untitled Alien Game Devlog 3 (2024-10-20)]] |
@@ -18,3 +19,5 @@ Welcome to my development blog!
 
 # Untitled Alien Game Devlog
 - [[Untitled Alien Game Devlogs]]
+
+-->

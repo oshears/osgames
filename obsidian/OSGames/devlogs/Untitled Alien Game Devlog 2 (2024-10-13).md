@@ -3,6 +3,8 @@ description: Just a placeholder note for next week!
 date: 2024-10-13
 tags:
   - projects/untitled-alien-game
+  - "#devlog"
+title: Untitled Alien Game Devlog 2
 ---
 ![[osgames_logo_devlog.png]]
 

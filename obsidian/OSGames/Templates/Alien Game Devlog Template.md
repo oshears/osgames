@@ -1,6 +1,7 @@
 ---
 tags:
-  - project/alien-game
+  - "#devlog"
+  - "#projects/untitled-alien-game"
 description: 
 title: 
 draft: "true"
