@@ -9,6 +9,6 @@ I plan to post weekly devlogs to keep track of my project's growth and encourage
 
 | Devlog                                        | Description                   | Date               |
 | --------------------------------------------- | ----------------------------- | ------------------ |
-| [[Untitled Alien Game Devlog 1 (2024-10-06)]] | Basic Ship System Development | October 6th, 2024  |
-| [[Untitled Alien Game Devlog 2 (2024-10-13)]] | Alien System Development      | October 13th, 2024 |
-| [[Untitled Alien Game Devlog 3 (2024-10-20)]] | Map Expansion and Item System | October 20th, 2024 |
+| [[Alien Game Devlog 1]] | Basic Ship System Development | October 6th, 2024  |
+| [[Alien Game Devlog 2]] | Alien System Development      | October 13th, 2024 |
+| [[Alien Game Devlog 3]] | Map Expansion and Item System | October 20th, 2024 |

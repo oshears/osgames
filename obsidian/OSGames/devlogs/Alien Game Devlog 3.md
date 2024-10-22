@@ -3,7 +3,10 @@ tags:
   - "#devlog"
   - "#projects/untitled-alien-game"
 description: A summary of the new movement capabilities and item system.
-title: Untitled Alien Game Devlog 3
+title: Alien Game Devlog 3
+aliases:
+  - Untitled Alien Game Devlog 3 (2024-10-20)
+  - Untitled Alien Game Devlog 3
 ---
 ![[osgames_logo_devlog.png]]
 # Overview

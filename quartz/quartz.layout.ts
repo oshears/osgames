@@ -8,16 +8,16 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        repo: 'oshears/osgames',
-        repoId:'R_kgDOM8ZZwg',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOM8ZZws4CjHzk',
-        reactionsEnabled: true
-      }
-    })
+    // Component.Comments({
+    //   provider: 'giscus',
+    //   options: {
+    //     repo: 'oshears/osgames',
+    //     repoId:'R_kgDOM8ZZwg',
+    //     category: 'Announcements',
+    //     categoryId: 'DIC_kwDOM8ZZws4CjHzk',
+    //     reactionsEnabled: true
+    //   }
+    // })
   ],
   footer: Component.Footer({
     links: {
@@ -41,11 +41,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     // Component.DesktopOnly(Component.Explorer()),
-    Component.TableOfContents(),
+    // Component.TableOfContents(),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Devlogs",
         limit: 10,
+        showTags: false,
         filter: (f) =>
           f.slug!.startsWith("devlogs/") && f.slug! !== "devlogs/index" && !f.frontmatter?.noindex,
         linkToMore: "devlogs/" as SimpleSlug,
@@ -55,6 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     // Component.Graph(),
     // Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
     Component.Backlinks(),
   ],
 }
@@ -72,6 +74,7 @@ export const defaultListPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "Devlogs",
         limit: 10,
+        showTags: false,
         filter: (f) =>
           f.slug!.startsWith("devlogs/") && f.slug! !== "devlogs/index" && !f.frontmatter?.noindex,
         linkToMore: "devlogs/" as SimpleSlug,

@@ -9,7 +9,7 @@ date: 2024-10-06
 
 **Untitled Alien Game** (working title) is a multiplayer survival horror game in which players cooperate or compete to fulfill their personal missions while surviving the threat of an alien presence on their ship.
 
-For more information about the origins of this project and my sources of inspiration, check out [[Untitled Alien Game Devlog 1 (2024-10-06)|my first devlog!]]
+For more information about the origins of this project and my sources of inspiration, check out [[Alien Game Devlog 1|my first devlog!]]
 
 
 # Development Roadmap
@@ -18,9 +18,9 @@ For more information about the origins of this project and my sources of inspira
 
 - [x] **Week 1 & 2**: Game Architecture and Foundation (~September 2024)
 - [x] **Week 3**: Ship layout, Audio Setup and movement between rooms
-- [x] **Week 4**: Basic System Systems ([[Untitled Alien Game Devlog 1 (2024-10-06)|Devlog #1]])
-- [x] **Week 5**: Alien Encounters ([[Untitled Alien Game Devlog 2 (2024-10-13)|Devlog #2]])
-- [x] **Week 6**: Basic Actions & ~~Local Multiplayer Gameplay~~ item system ([[Untitled Alien Game Devlog 3 (2024-10-20)|Devlog #3]])
+- [x] **Week 4**: Basic System Systems ([[Alien Game Devlog 1|Devlog #1]])
+- [x] **Week 5**: Alien Encounters ([[Alien Game Devlog 2|Devlog #2]])
+- [x] **Week 6**: Basic Actions & ~~Local Multiplayer Gameplay~~ item system ([[Alien Game Devlog 3|Devlog #3]])
 - [ ] **Week 7**: Room Actions & More ship systems
 - [ ] **Week 8**: Item actions and more player systems
 - [ ] **Week 9**: Events and effects
@@ -34,9 +34,9 @@ For more information about the origins of this project and my sources of inspira
 | 1    |                                                              |                                               |
 | 2    |                                                              |                                               |
 | 3    |                                                              |                                               |
-| 4    | Development of basic ship systems (fire, doors, coordinates) | [[Untitled Alien Game Devlog 1 (2024-10-06)]] |
-| 5    | Development of alien system                                  | [[Untitled Alien Game Devlog 2 (2024-10-13)]] |
-| 6    | Development of basic player actions and items                | [[Untitled Alien Game Devlog 3 (2024-10-20)]] |
+| 4    | Development of basic ship systems (fire, doors, coordinates) | [[Alien Game Devlog 1]] |
+| 5    | Development of alien system                                  | [[Alien Game Devlog 2]] |
+| 6    | Development of basic player actions and items                | [[Alien Game Devlog 3]] |
 | 7    | Development of room actions and more ship systems            |                                               |
 | 8    | Development of item actions and more player systems          |                                               |
 | 9    | Events and effects                                           |                                               |

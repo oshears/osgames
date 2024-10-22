@@ -1,10 +1,13 @@
 ---
+title: Alien Game Devlog 2
 description: Just a placeholder note for next week!
 date: 2024-10-13
 tags:
   - projects/untitled-alien-game
   - "#devlog"
-title: Untitled Alien Game Devlog 2
+aliases:
+  - Untitled Alien Game Devlog 2
+  - Untitled Alien Game Devlog 2 (2024-10-13)
 ---
 ![[osgames_logo_devlog.png]]
 
@@ -98,4 +101,4 @@ This week the most visual change I added to the games included:
 
 ## Other Devlogs
 - [[Untitled Alien Game Devlogs]]
-- [[Untitled Alien Game Devlog 1 (2024-10-06)]]
+- [[Alien Game Devlog 1]]

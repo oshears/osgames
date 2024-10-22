@@ -4,7 +4,10 @@ tags:
   - projects/untitled-alien-game
   - "#devlog"
 description: My first devlog for Untitled Alien Game!
-title: Untitled Alien Game Devlog 1
+title: Alien Game Devlog 1
+aliases:
+  - Untitled Alien Game Devlog 1 (2024-10-06)
+  - Untitled Alien Game Devlog 1
 ---
 ![[osgames_logo_devlog.png]]
 

@@ -1,0 +1,3 @@
+[submodule "oshears_quartz"]
+	path = oshears_quartz
+	url = https://github.com/oshears/quartz
