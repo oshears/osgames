@@ -7,6 +7,7 @@ title: Alien Game Devlog 3
 aliases:
   - Untitled Alien Game Devlog 3 (2024-10-20)
   - Untitled Alien Game Devlog 3
+date: 2024-10-20
 ---
 ![[osgames_logo_devlog.png]]
 # Overview
