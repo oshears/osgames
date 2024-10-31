@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devlogs/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d711e781f7b23fce",
@@ -205,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,26 +220,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "359bdde9576c8aec",
+  "active": "9b1eb1ba8cded31c",
   "lastOpenFiles": [
-    "Miscellaneous Thoughts/Miscellaneous Thoughts.md",
-    "devlogs/index.md",
+    "devlogs/Alien Game Devlog 5.md",
+    "devlogs/Alien Game Devlog 4.md",
+    "Templates/Alien Game Devlog Template.md",
+    "index.md",
+    "devlogs/Alien Game Devlog 1.md",
+    "devlogs/Alien Game Devlog 2.md",
     "devlogs/Alien Game Devlog 3.md",
+    "devlogs/index.md",
+    "Miscellaneous Thoughts/Miscellaneous Thoughts.md",
     "Media/osgames_icon.png",
     "Media/icon.png",
     "icon.png",
-    "devlogs/Alien Game Devlog 2.md",
-    "devlogs/Alien Game Devlog 1.md",
     "Miscellaneous Thoughts/Reflections/Domain-Based Working.md",
     "posts/Test Post.md",
     "Miscellaneous Thoughts/Productivity Tips.md",
     "drafts/404 Page.md",
     "drafts",
-    "index.md",
     "devlogs",
     "posts",
     "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md",
-    "Templates/Alien Game Devlog Template.md",
     "miscellaneous notes and thoughts.md",
     "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.svg",
     "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
