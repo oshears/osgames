@@ -1,6 +1,6 @@
 
 This repo manages my OSGames devlog website. Link to the website can be found here:
-- [OSGames Devlog](oshears.github.io/osgames)
+- [OSGames Devlog](https://oshears.github.io/osgames/)
 # Quartz as a subtree
 - https://www.atlassian.com/git/tutorials/git-subtree
 
