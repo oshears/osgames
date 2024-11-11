@@ -2,10 +2,10 @@
 tags:
   - "#devlog"
   - "#projects/untitled-alien-game"
-description: 
 title: 
+description: 
+date: 
 draft: "true"
-date:
 ---
 # Overview
 - 
