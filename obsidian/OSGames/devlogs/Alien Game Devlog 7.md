@@ -31,7 +31,7 @@ It no news to anyone that game development is not a particularly stable industry
 
 I believe that in the immediate future I can do this with my current work assignments. By learning into my work and try to contribute in areas where they are currently lacking, I hope to better build my career on a solid foundation of scholarly publications that can be used to either help me earn my PhD, or provide me with better chances for employability.
 
-## Developing in Blender
+# Developing in Blender
 This is a particularly interesting area for me because I feel like it is very easy to program a game, but it is very hard to make a game that looks good. If I can learn more about modeling simple things in blender and using shader effectively, I can have the power to use more of the right side of my brain and better flex my creativity.
 
 Here are some of my previous works with 3D modeling from back in 2022:
