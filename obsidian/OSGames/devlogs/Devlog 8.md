@@ -1,5 +1,8 @@
 ---
 date: 2024-11-25
+tags:
+  - devlog
+description: New opportunities and potential partnerships!
 ---
 This week I established contact with another potential game dev partner. He is a music composes and is interested in creating a Nintendogs like game but with fish.
 
