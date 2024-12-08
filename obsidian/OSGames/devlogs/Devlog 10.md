@@ -2,6 +2,9 @@
 title: 
 description: The start of development for Lonnies Fishtank!
 date: 2024-12-09
+tags:
+  - devlog
+  - lonnies-fishtank
 ---
 ## Lonnies Fishtank
 
