@@ -1,6 +1,6 @@
 ---
 title: 
-description: 
+description: The start of development for Lonnies Fishtank!
 date: 2024-12-09
 ---
 ## Lonnies Fishtank
@@ -13,6 +13,12 @@ This week I officially started development on Lonnies Fishtank! A Nintendogs ins
 In order to improve the maintainability and scalability of the game, I want to adopt practices that I attempted in my previous project, Primoridal. The key concepts I would like to apply include:
 1. The command pattern
 2. Behavior Trees
+3. Having a complete game flow as early as possible
+
+### User Interface
+
+![[IMG_9104.jpeg]]
+
 
 
 ### Fish Movements and Tank System
