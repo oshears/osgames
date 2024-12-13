@@ -15,8 +15,12 @@ Added some more minor things to the WIP build of Lonnies Fishtank. Changes inclu
 - Testing the control of Cinemachine cameras with a controller
 - Added fish name and other attributes
 - Cleaned up workspace with assemblies and namespaces
+- Added ability to feed the fish
+- Cleaned up camera views
 
-<iframe src="https://drive.google.com/file/d/1Rpy2zVqfmkm8qR7-dmNJFu2JXQMMTQqL/preview" width="640" height="480" allow="autoplay"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1Rpy2zVqfmkm8qR7-dmNJFu2JXQMMTQqL/preview" width="640" height="480" allow="autoplay"></iframe> -->
+
+<iframe src="https://drive.google.com/file/d/1-3Dzf0tzT3prOIIiGmG9v1zzc1i1i_0a/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 # # MÖRK BORG
