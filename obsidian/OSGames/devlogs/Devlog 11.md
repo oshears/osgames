@@ -5,7 +5,6 @@ date: 2024-12-15
 tags:
   - devlog
   - lonnies-fishtank
-draft: "true"
 ---
 
 
