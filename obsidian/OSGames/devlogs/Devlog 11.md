@@ -19,7 +19,7 @@ Added some more minor things to the WIP build of Lonnies Fishtank. Changes inclu
 
 <!-- <iframe src="https://drive.google.com/file/d/1Rpy2zVqfmkm8qR7-dmNJFu2JXQMMTQqL/preview" width="640" height="480" allow="autoplay"></iframe> -->
 
-<iframe src="https://drive.google.com/file/d/1-3Dzf0tzT3prOIIiGmG9v1zzc1i1i_0a/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-3Dzf0tzT3prOIIiGmG9v1zzc1i1i_0a/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 
 # MÖRK BORG
