@@ -1,29 +1,30 @@
 ---
-title: "Devlog 12: Syncing up with the group"
-date: 2024-12-22
-description: 
+title: "Devlog 12: Big updates for Lonnies Fishtank!"
+description: In this Devlog I show the latest gameplay changes to my work on Lonnies Fishtank
 tags:
   - devlog
   - lonnies-fishtank
-draft: "true"
+date: 2024-12-23
 ---
-# Lonnies Fishtank
 
+## Lonnies Fishtank
 
-> [!NOTE] New Devlog Location!
-> check out [fish-head-games.github.io](fish-head-games.github.io)
+In this brief video, I overview some of the gameplay that I've been working to implement over the past few weeks.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UrJAB9ictqY?si=gf58mHq6wNmxSkGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Smoky Mountains
+## Mork Borg
 
-![](https://photos.app.goo.gl/cuD8BoSamh9hCLjS6)
+This week I also read over the Mork Borg Campaign Rotblack Sludge in detail and am excited to run it at some point!
 
-https://photos.app.goo.gl/2WJbQGti4EahVVmQA
+## Mothership
 
-## get google photos embed link
+I also did some prep to get ready to run Moon Base Blues for Zion and Gia this week hopefully!
 
-https://www.labnol.org/embed/google/photos/
+## Other RPGs
 
-https://webapps.stackexchange.com/questions/95450/how-to-embed-single-photo-from-google-photos-album
+I've been interested in the aesthetics and themes of this RPG called **Root**! I definitely want to try picking it up and learning more about it.
 
-https://hackernoon.com/how-to-embed-single-photos-from-google-photos-on-your-website-and-notion-page
+## Great Smoky Mountains!
+
+I also took a cool trip to the Great Smoky Mountains in Tennessee this past week! It was an exhausting 12 mile, 4K ft elevation hike, but an exciting and novel adventure at the same time!
