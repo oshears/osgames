@@ -4,7 +4,7 @@ description: In this devlog I showcase the fish walking feature and gachapon for
 tags:
   - devlog
   - lonnies-fishtank
-date: 2024-01-05
+date: 2025-01-05
 ---
 
 ## Lonnies Fishtank
