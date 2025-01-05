@@ -1,6 +1,6 @@
 ---
 title: "Devlog 12: Big updates for Lonnies Fishtank!"
-description: In this Devlog I show the latest gameplay changes to my work on Lonnies Fishtank
+description: In this devlog I show the latest gameplay changes to my work on Lonnies Fishtank
 tags:
   - devlog
   - lonnies-fishtank
