@@ -12,6 +12,8 @@ This week I worked on adding customization functionality for the fish. I laid th
 
 ![[custom_fish.gif]]
 
+<iframe src="https://drive.google.com/file/d/1obAmLVNnw-3mR-kmHycIAf60kdElycIG/preview" width="100%" height="480" allow="autoplay"></iframe>
+
 I also plan to add the option to get new customization options from the tech spin machine at some point by spending currency to perform a roll. Ideally the items collected by the player should be stored in their save data, and the gachapon should not give them anything they've already obtained. 
 
 Once this is implemented, I can move on to refining the UI a bit more and adding more abilities to interact with the fish.
