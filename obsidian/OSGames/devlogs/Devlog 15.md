@@ -34,7 +34,24 @@ As far as the community goes, players would have the ability to vote on their fa
 
 This idea is unique because it'd be the first co-op survival horror game with built in user generated content and level editing capabilities. To my knowledge, no other game has attempted to do this. I believe that this ideas is even strong when you add the unique bone mechanics and multiplayer gameplay that Skeleton Hell introduced.
 
+To summarize these thoughts, the user generated levels would:
+- **Reward User Level Creation**: Provide unlimited gameplay with new and unique levels every day. Users would rank the levels and well designed levels would be incentivized and rewarded for in game content (cosmetics), steam achievements, and steam leaderboard positions.
+- **Incentivize and Reward Speed Running**: Reward speed runners on levels by showcasing an in game leaderboard of their performance and how well they did against other people in the community.
+- **Reward completion of a certain number of developer approved levels:** these levels would be deemed by us the developers to be verified and could be used towards gaining new cosmetics and working towards achievements. This idea is very rough, but the idea is that I'd like to reward people for just completing certain levels, while avoiding a situation where dummy levels are generated just to earn the achievement.
+
 ## Misc Thoughts 
-- I finished watching *Fleabag* this week. While the ending of the show was very sad, the writing was very good and I appreciate all of the humor! Claire is definitely my favorite character from the show and I will miss going on the journey with those characters.
-- I haven't done any reading about the *Root RPG*, *Mothership*, or *Mork Borg* in a while. I really did enjoy learning about and running those sessions, so I hope to get that started again and run a game near me in the New River Valley.
-- I would like to start a local game developer meetup in the New River Valley. Hopefully this week I have the energy to draft up a completed interest post and post it to Reddit and meetup. It would even be wise to advertise it on the next 3 days website.
+- **Fleabag**: I finished watching *Fleabag* this week. While the ending of the show was very sad, the writing was very good and I appreciate all of the humor! Claire is definitely my favorite character from the show and I will miss going on the journey with those characters.
+- **TTRPGs**: I haven't done any reading about the *Root RPG*, *Mothership*, or *Mork Borg* in a while. I really did enjoy learning about and running those sessions, so I hope to get that started again and run a game near me in the New River Valley.
+- **NRV Game Dev:** I would like to start a local game developer meetup in the New River Valley. Hopefully this week I have the energy to draft up a completed interest post and post it to Reddit and meetup. It would even be wise to advertise it on the next 3 days website.
+- **Dead Game Video Project Series**: I should start a dead projects mini series for all the games I started but never finished. I could answer the following questions: 
+	- What was the game?
+	- What was the state of the game?
+	- Why did it fail? Why did you drop it off?
+	- Will you ever go back to the game?
+- **Dead Games**: The games that I've started but never finished include:
+	- Stagehand
+	- Hell Roulette 
+	- Synthicate
+	- Whimsical Wizards
+	- Tombsweeper
+	- Primordial 
