@@ -33,3 +33,8 @@ Upon opening a level editor found within the game, users can create and customiz
 As far as the community goes, players would have the ability to vote on their favorite levels and reward those players with reputation based on who designed the best levels. This in game rewarding could even translate to some in game bonuses or cosmetics to incentivize people to make the best levels and keep them coming back to the game. Really I think there's a lot of potential that can be explored with this idea.
 
 This idea is unique because it'd be the first co-op survival horror game with built in user generated content and level editing capabilities. To my knowledge, no other game has attempted to do this. I believe that this ideas is even strong when you add the unique bone mechanics and multiplayer gameplay that Skeleton Hell introduced.
+
+## Misc Thoughts 
+- I finished watching *Fleabag* this week. While the ending of the show was very sad, the writing was very good and I appreciate all of the humor! Claire is definitely my favorite character from the show and I will miss going on the journey with those characters.
+- I haven't done any reading about the *Root RPG*, *Mothership*, or *Mork Borg* in a while. I really did enjoy learning about and running those sessions, so I hope to get that started again and run a game near me in the New River Valley.
+- I would like to start a local game developer meetup in the New River Valley. Hopefully this week I have the energy to draft up a completed interest post and post it to Reddit and meetup. It would even be wise to advertise it on the next 3 days website.
