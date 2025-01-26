@@ -39,6 +39,7 @@ Don't get me wrong, none of this was super shocking because I had grown up visit
 
 Anyways, I wish there was a Reddit thread or some kind of free online discussion board for each chapter of the book, similar to how people make these threads for each episode of popular TV shows. I think this would be really nice to feel like I am engaging with a community as I am going through each chapter of the book. If I am unable to find something to fill this void, then I would like to try and set something up myself. Some cool ideas that this discussion board or app or website could have include:
 - A *Finch* like accountability and goal feature that allows you to keep up with your reading goals and view other people's progress. It would also be cool to reward people for their reading progress, reflections on the reading, viewing information about others' reading journey, and cheering them on / encouraging them.
+- What if there was a type of shared reading experience where you can see little side comments in the margins where other people might have made comments on certain sections of the book, and you too can leave comments and react to their messages.
 
 # Finch
 
