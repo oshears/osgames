@@ -16,6 +16,7 @@ I added the fish variations using the 3D goldfish models that Ashely has been wo
 ![[20250124_fish_in_tank_variants.gif]]
 
 In the two images, a variety of much more interesting looking fish can be seen. Ashley did a great job providing fin variations and shapes for these fish, so much so that it feels like new life has been breathed into this very simple game.
+
 ## Tutorials
 
 I also worked on creating some basic tutorials for the game. The goal is to make these tutorials so that I can allow the rest of the team to experiment with the build and test things out, without worrying about learning all the controls. I guess in the short term I could also just give them the controls as a text document / the text box on the screen.
@@ -40,8 +41,10 @@ Anyways, I wish there was a Reddit thread or some kind of free online discussion
 - A *Finch* like accountability and goal feature that allows you to keep up with your reading goals and view other people's progress. It would also be cool to reward people for their reading progress, reflections on the reading, viewing information about others' reading journey, and cheering them on / encouraging them.
 
 # Finch
+
 ![[20250126_Finch.png]]
 ![[20250126_Finch_Room.png]]
+
 On that note, *Finch* has been a game changing app for me. It has been the first journaling / accountability app that I have been able to keep up with for over a year now! Usually when I've tried to maintain yearly habits, especially through apps, I've always fallen off of them; However, Finch has been amazing because it rewards me for journaling every day with new clothes, furniture pieces, and the prospect of traveling to new locations with Gizmo (my finch pet) and discovering new things about those locations. Just this month I've learned that Iceland:
 - Has a special rye bread that they Beale in the group 
 - Have many turf houses built into hills with grass and the ground overtop of the to help with insulation and warmth.
@@ -49,6 +52,7 @@ On that note, *Finch* has been a game changing app for me. It has been the first
 - Drink their water directly from the springs that produce them.
 
 I highly recommend [Finch](https://finchcare.com) as a daily accountability and self care app!
+
 # Shawshank Redemption
 
 Gia and I have also made it our goal to go through each of [IMDB's Top 250](https://m.imdb.com/chart/top/) movies this year to culture ourselves with historically renown films. We appreciated both Letterbox's and IMDB's lists, but ultimately decided to start with the IMDB one because of the many familiar titular that we had yet to have watched.
