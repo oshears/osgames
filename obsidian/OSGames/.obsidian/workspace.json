@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devlogs/Devlog 10.md",
+                "file": "Templates/Lonnies Devlog Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devlog 10"
+              "title": "Lonnies Devlog Template"
             }
           },
           {
@@ -43,8 +43,8 @@
               "state": {
                 "file": "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-19 08.02.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -198,14 +198,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "8af2a8710abef98b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,11 +224,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "359bdde9576c8aec",
+  "active": "68bc3ccf7b2e0b7c",
   "lastOpenFiles": [
+    "Templates/Alien Game Devlog Template.md",
+    "Templates/Lonnies Devlog Template.md",
+    "devlogs/Devlog 17.md",
+    "devlogs/Devlog 16.md",
+    "devlogs/Devlog 10.md",
     "Media/osgames/osgames_logo_header.png",
     "Media/osgames/osgames_logo_devlog.png",
     "Media/osgames/osgames_icon.png",
@@ -227,13 +243,11 @@
     "Media/Lonnies Fishtank Menus and Game Views.jpeg",
     "devlogs/Devlog 9.md",
     "devlogs/Devlog 8.md",
-    "devlogs/Devlog 10.md",
     "devlogs/Alien Game Devlog 7.md",
     "devlogs/Alien Game Devlog 6.md",
     "devlogs/Alien Game Devlog 3.md",
     "devlogs/Alien Game Devlog 4.md",
     "devlogs/Alien Game Devlog 5.md",
-    "Templates/Alien Game Devlog Template.md",
     "index.md",
     "devlogs/Alien Game Devlog 1.md",
     "devlogs/Alien Game Devlog 2.md",
@@ -255,11 +269,9 @@
     "Untitled Alien Game/Untitled Alien Game Mechanics and Systems.md",
     "Untitled Alien Game/Untitled Alien Game Project Planning.md",
     "Untitled Alien Game/Untitled Alien Game.md",
-    "Untitled Alien Game/Untitled Alien Game Devlogs/Untitled Alien Game Devlogs.md",
     "Excalidraw",
     "Media/osgames_logo_devlog.png",
     "Miscellaneous Thoughts/Reflections",
-    "My Favorite Tactical Turn Based Games.md",
     "Miscellaneous Thoughts",
     "Media/osgames_logo_header.png",
     "Untitled Alien Game/Untitled Alien Game Devlogs",
