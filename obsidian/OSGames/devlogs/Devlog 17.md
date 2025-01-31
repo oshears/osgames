@@ -9,6 +9,14 @@ draft: true
 # Lonnies Fishtank
 
 
+# Shroom and Gloom
+
+I haven't been playing many games lately, but I decided to finally check out this interesting looking "rougelike deckbuilder" on itch. The artstyle really caught my eye a few months ago and I've been waiting to make time to try it ever since. Man was it worth the wait! I highly recommend it! Especially because it's free! Not having played any other deckbuilder type games, this was definitely a great introduction to the genre; Though I know Balatro is the popular choice 😆
+
+Download **Shroom and Gloom** for free on Itch.io here: [https://teamlazerbeam.itch.io/shroom-and-gloom](https://teamlazerbeam.itch.io/shroom-and-gloom "https://teamlazerbeam.itch.io/shroom-and-gloom")
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hr0GhxvAMK4?si=kQHVwdemzzGbccoZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Misc
 
 My all time favorite productivity playlist:
