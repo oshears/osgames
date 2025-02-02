@@ -14,6 +14,8 @@ Check out the latest video devlog here:
 
 Read more about the updates here: [Oz Devlog #4: New Fish Models, Tutorials, and Steam Deck Build! - Lonnies Fishtank](https://fish-head-games.github.io/devlogs/devlog-4-2025-02-01/)
 
+Here's the super secret demo link to download and try out the game: [Lonnies Fishtank Demo (2025-02-01)](https://drive.google.com/file/d/1QZQMx4zMa3tBDQ9tvajOLjvRlj_xQrjA)
+
 # Shroom and Gloom
 
 I haven't been playing many games lately, but I decided to finally check out this interesting looking "rougelike deckbuilder" on itch. The artstyle really caught my eye a few months ago and I've been waiting to make time to try it ever since. Man was it worth the wait! I highly recommend it! Especially because it's free! Not having played any other deckbuilder type games, this was definitely a great introduction to the genre; Though I know Balatro is the popular choice 😆
