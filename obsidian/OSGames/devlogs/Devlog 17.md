@@ -24,6 +24,9 @@ Download **Shroom and Gloom** for free on Itch.io here: [https://teamlazerbeam.i
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hr0GhxvAMK4?si=kQHVwdemzzGbccoZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Check out my Let's Play for the Game Here:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LRZoh2axJoU?si=Rpbqs0Qg6Xbj5V6C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # Misc
 
 My all time favorite productivity playlist:
