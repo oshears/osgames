@@ -1,10 +1,10 @@
 ---
-title: "Devlog 18: Overhauled Fish Walking"
+title: "Devlog 18: Overhauled Fish Walking and New Environment Assets"
 date: 2025-02-09
-description: This week I finished tying together logic for the walking scene!
+description: This week I finished tying together logic for the walking scene and started adding new environment assets to liven up the place!
 tags:
   - lonnies-fishtank
-draft: true
+draft: false
 ---
 # Lonnies Fishtank
 
