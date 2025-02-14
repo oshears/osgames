@@ -9,9 +9,13 @@ description: Osaze Shears' personal game development website.
 ![[osgames_logo_header.png]]
 Welcome to my development blog!
 
-Here I'll keep track of my latest project: [[Untitled Alien Game]] - among many other updates!
+Here I'll keep track of my latest project: [[Lonnies Fishtank]] among many other updates!
 
 Check out the latest blog posts [[devlogs/index|here]]!
+
+Follow my game dev progress on Discord and YouTube:
+- OSGames **Discord**: https://discord.gg/UQqYWNe5hW
+- Osaze Shears **YouTube**: https://youtube.com/@OsazeShears
 
 <!--
 # Recent Posts
