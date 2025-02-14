@@ -6,7 +6,13 @@ tags:
   - lonnies-fishtank
 draft: true
 ---
-# Lonnies Fishtank
+## At A Glance
+- [[#Lonnies Fishtank]]: I added tank decorating, achievements and basic fish interactions to the game.
+- [[#The Godfather]]: I finally watched the godfather. It was an alright movie. 
+- [[#Kingdom Come Deliverance]]: I've been playing kingdom come deliverance. It has been quite an enjoyable experience exploring the immersive and brutal world.
+- [[#Surviving the Ice Storm]]: an ice storm wrecked havoc on the trees in my neighborhood.
+- [[#National Park Puzzle]]: I finished a 1,000 piece puzzle with Gia this week. Very satisfying!
+## Lonnies Fishtank
 
 This week I've added the following features to **Lonnie's Fishtank**:
 - Tank decorating 
