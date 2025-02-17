@@ -1,13 +1,13 @@
 ---
-title: "Devlog 19: Fish Tank Decorating, Achievements and Fish Interactions"
+title: "Devlog 19: Fish Tank Decorating, Achievements and Environment Assets"
 date: 2025-02-16
-description: This week I added tank decorating, achievements and basic fish interactions to Lonnies Fishtank.
+description: This week I added tank decorating, achievements and environment assets to Lonnies Fishtank.
 tags:
   - lonnies-fishtank
 draft: true
 ---
 ## At A Glance
-- [[#Lonnies Fishtank]]: I added tank decorating, achievements and basic fish interactions to the game.
+- [[#Lonnies Fishtank]]: I added tank decorating, achievements and environment assets to the game.
 - [[#The Godfather]]: I finally watched the godfather. It was an alright movie. 
 - [[#Kingdom Come Deliverance]]: I've been playing kingdom come deliverance. It has been quite an enjoyable experience exploring the immersive and brutal world.
 - [[#Surviving the Ice Storm]]: an ice storm wrecked havoc on the trees in my neighborhood.
@@ -17,8 +17,11 @@ draft: true
 This week I've added the following features to **Lonnie's Fishtank**:
 - Tank decorating 
 - Achievements 
-- Basic fish interactions
+- Environment Assets
 Check them out in the devlog below, or read more about it here: 
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aI94P2937lw?si=s1bcv3j2yw6eXH7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Godfather
 
