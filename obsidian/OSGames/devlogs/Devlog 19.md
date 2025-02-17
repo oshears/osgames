@@ -4,7 +4,7 @@ date: 2025-02-16
 description: This week I added tank decorating, achievements and environment assets to Lonnies Fishtank.
 tags:
   - lonnies-fishtank
-draft: true
+draft: false
 ---
 ## At A Glance
 - [[#Lonnies Fishtank]]: I added tank decorating, achievements and environment assets to the game.
