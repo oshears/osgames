@@ -4,7 +4,7 @@ date: 2025-02-23
 description: I brainstormed some new ideas for the gameplay of Lonnie's Fishtank and added basic fish interactions
 tags:
   - lonnies-fishtank
-draft: true
+draft: false
 ---
 ## At A Glance
 - [[#Lonnies Fishtank]]: I post my thoughts on ways to improve the gameplay of Lonnie's Fishtank and overview of the basic fish interactions in the game.
@@ -33,3 +33,5 @@ In conclusions, this concept of time, choice and consequence seems like a really
 - option to turn this setting off for hyper casual gamers
 
 ### Basic Fish Interactions
+
+I started adding basic fish interactions to the game. While I haven't added much functionality to the mechanic, players can at least pet their fish and see a variety of different status effects as a result. Soon I also plan on implementing fetch and tug of war with the fish as different ways to train them. I could even add a training mechanic similar to Nintendogs where you speak into the microphone 🤔
