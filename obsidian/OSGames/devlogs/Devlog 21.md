@@ -12,6 +12,8 @@ draft: false
 # At a glance 
 - [[#Lonnie's Fishtank]]: I tested out some new ideas for challenging players in this game with managing their fish and keeping them alive.
 - [[#Claude Sonet 3.7]]: I implemented a bunch of different projects on my home server by getting Claude AI to program some solutions.
+- **Persona 5**: I also started getting back into playing Persona 5. Man it's quite a long game, but I enjoy the story!
+- **The Godfather 2:** Gia and I also started watching the Godfather 2. It's turning out to be better than I thought it was going to be! I think it's more enjoyable than the first now that the characters are all setup.
 
 # Lonnie's Fishtank
 
