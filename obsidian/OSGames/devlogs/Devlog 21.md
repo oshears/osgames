@@ -21,6 +21,8 @@ This week progress was a bit slow for me with Lonnie's Fishtank. The main thing 
 
 I also added the ability to pet the fish in the game. The fish now emit certain emojis based on how they received the petting. Lastly, I used Claude a bit more to help me develop the script for one of the characters that players can encounter on their walks around the neighborhood.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MiTuzxHTY6M?si=Ws8hR_o1Q548WgAm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Claude Sonet 3.7
 
 This week I paid for a one month subscription to Claude AI. While generally I haven't been very impressed with generative AI, this one really changed my perspective. 
