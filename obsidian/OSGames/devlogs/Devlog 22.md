@@ -36,6 +36,20 @@ It was interesting using Claude to debug issues with ESP because I was pretty mu
 # Planned Home Server Additions
 - self hosted project management using **vikunja**
 - Self hosted wiki website using **wiki.js**
-- public ip address monitoring daemon
-- Itch gamejam monitoring daemon
-- 
+- public ip address monitoring daemon so I know when it changes and can update all of my self hosted thing accordingly
+- Itch gamejam monitoring daemon so I can stay up to date on the latest game jams and connect with other developers online more easily.
+- self hosted syncthing server for when I need to keep things up to date but don't want it performed through something like GitHub or google drive. Might have to use something else like https://github.com/vrtmrz/obsidian-livesync if it's for obsidian.
+- Stream steam deck gameplay to a nas or my home server for future playback 
+- Setup a local mastodon server for sharing game streams, blog posts, devlogs and other random stuff.
+- Setup owlcast to track livestreams
+- Setup mealie for recipe tracking
+- Setup Immich and test how it works against Google photos
+- setup mailcow for self hosted email
+- Buy a domain?
+- setup Strava statistics: https://github.com/robiningelbrecht/strava-statistics
+- maybe: Make a web app for AllTrails statistics?
+- update osgames website to just be my generally blog using template generated with Claude 
+
+# Fragpunk
+
+Fragpunk is looking to be an interesting iteration on the counter strike and Valorant formula with some fresh ideas and aesthetics. I look forward to checking it out!
