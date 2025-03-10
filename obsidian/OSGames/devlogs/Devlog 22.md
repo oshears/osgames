@@ -5,7 +5,7 @@ date: 2025-03-09
 tags:
   - gamedev
   - lonnies-fishtank
-draft: true
+draft: false
 ---
 # Overview
 - [[#Reflections on Claude AI]]: I give some in-depth reflections on the 
