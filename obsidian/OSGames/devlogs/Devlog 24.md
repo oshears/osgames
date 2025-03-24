@@ -1,11 +1,11 @@
 ---
 title: "Devlog 24: Meeting and Old Friend and Work Trip to LA"
 description: This week I was in Pasadena for a work conference. I also met up with an old friend!
-draft: true
 tags:
   - skeleton-hell
   - community-outreach
 date: 2025-03-23
+draft: false
 ---
 
 # At A Glance
