@@ -26,7 +26,7 @@ Gaming has become quite an oversaturated market. While there are new and revolut
 
 ## Thesis
 
-**Thesis**: Game developers should spend more time developing VR/AR/MR/XR type games, to find more critical success and lead to better innovation and technological breakthroughs for gaming and interactive experiences. The challenges limiting development in this field must be overcome individual in the short term, and time should be sacrificed investing into this technology.
+**Thesis**: Game developers should spend more time developing VR/AR/MR/XR type games, to find more critical success and lead to better innovation and technological breakthroughs for gaming and interactive experiences. The challenges limiting development in this field must be overcome individually in the short term, and time should be sacrificed investing into this technology.
 
 ## Challenges
 - VR Headsets are *cost prohibitive*, but this is changing thanks to an ever increasing influx of consumer accessible devices, such as the **Meta Quest 3**.

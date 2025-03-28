@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c151b0a03b70d052",
+        "id": "5133dabe7c0eb7fd",
         "type": "tabs",
         "children": [
           {
-            "id": "68bc3ccf7b2e0b7c",
+            "id": "a52b45dbc50fa2b0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "obsidian/OSGames/devlogs/Devlog 19.md",
-                "staged": true
+                "file": "devlogs/Devlog 25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Devlog 19)"
-            }
-          },
-          {
-            "id": "a303e8ad4a0a71c5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "obsidian/OSGames/devlogs/Devlog 21.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Devlog 21)"
+              "icon": "lucide-file",
+              "title": "Devlog 25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,9 +190,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a303e8ad4a0a71c5",
+  "active": "359bdde9576c8aec",
   "lastOpenFiles": [
+    "devlogs/Devlog 25.md",
+    "devlogs/Devlog 24.md",
+    "devlogs/Devlog 23.md",
+    "devlogs/Devlog 22.md",
     "devlogs/Devlog 21.md",
+    "devlogs/media/20250319_212847.jpeg",
     "devlogs/Devlog 20.md",
     "devlogs/Devlog 19.md",
     "devlogs/Devlog 18.md",
@@ -233,18 +225,12 @@
     "devlogs/Alien Game Devlog 5.md",
     "devlogs/Alien Game Devlog 1.md",
     "devlogs/Alien Game Devlog 2.md",
-    "devlogs/index.md",
-    "Miscellaneous Thoughts/Miscellaneous Thoughts.md",
     "Media/osgames_icon.png",
     "Media/icon.png",
     "icon.png",
-    "Miscellaneous Thoughts/Reflections/Domain-Based Working.md",
-    "posts/Test Post.md",
-    "Miscellaneous Thoughts/Productivity Tips.md",
     "drafts",
     "devlogs",
     "posts",
-    "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.svg",
     "Excalidraw",
     "Miscellaneous Thoughts/Reflections",
     "Miscellaneous Thoughts",
