@@ -7,6 +7,8 @@ tags:
   - nrv-game-dev
   - virtual-reality
   - lonnies-fishtank
+  - self-hosted
+  - home-server
 draft: false
 ---
 # At a glance
