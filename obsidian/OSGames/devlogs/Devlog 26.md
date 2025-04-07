@@ -6,7 +6,6 @@ tags:
   - community-outreach
   - nrv-game-dev
   - virtual-reality
-  - outdoors
   - lonnies-fishtank
 draft: false
 ---
@@ -15,6 +14,7 @@ draft: false
 - **Meta Quest 3**: I picked up a meta quest 3 headset and had a blast with it so far! I have some gripes about the amount of content available for it, but overall see a lot of potential in the device.
 - **NRV Game Dev Interest Group:** I hosted my first meeting for the game dev interest group and was able to meet two cool people: Bob and David. I'd say that the get together was a a success and I look forward to the next event and having more discussions about game development with them.
 - **Lonnies Fishtank**: I finally finished getting the animations and dynamic bones implemented in the game. My next steps are to refine the walking scene with Lost's new assets.
+- **Home Server**: My updated list of new additions to my home server!
 
 # Meta Quest 3
 
@@ -33,3 +33,21 @@ In our next official meeting we plant to review an indie game that we all decide
 # Lonnies Fishtank
 
 Finally I finished adding in the new dynamic bones and animations into Lonnie's Fishtank. Both of these additions are making the game feel quite great now! Per our new roadmap, I'll start working on updates to the walking scene and using Lost's new assets.
+
+# Home Server 
+
+Now Hosting:
+- paperless: starting to use it more for document tracking
+- OwnTracks: wayyyy better than Traccar for phone tracking and viewing gps traces of my location
+- Probably will remove vikunja as it isn't quite working well with 2 users
+- navidrome: self hosted music streaming
+- firefly iii: financial management and expense tracking 
+- book stack: not using it much yet though
+- custom daemon to record video from my ring doorbell: it is a work in progress though
+- home assistant: right now it's good for tracking my utility expenses but I need to hook up more sensors around the house to get full use out of it
+- Immich: starting to use it more, will be really to fully transition from Google photos once I get a proper Raid setup on the nas. Im looking at using raid-1 for portability and a low profile nas server with mini itx motherboard
+- Gitea: probably the most useful self hosted thing Im running 
+- Reddit INAT summarized: it has been working great sending me biweekly updates from the subreddit to browse at my leisure
+- WireGuard: very easy vpn to let me access my home network away from home
+- Remark42: I wanted to setup this commenting system for my blog but have to do a bit more hacking to get it working properly as Im having some issues 
+- Samba: very easy to use file sharing system so I can access my server files from all other drives on the network; I've also upgrade my setup to a 1TB SDD; planning to add my other 1TB HDD to the server as well
