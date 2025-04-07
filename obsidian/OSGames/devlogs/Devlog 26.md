@@ -16,6 +16,7 @@ draft: false
 - **Meta Quest 3**: I picked up a meta quest 3 headset and had a blast with it so far! I have some gripes about the amount of content available for it, but overall see a lot of potential in the device.
 - **NRV Game Dev Interest Group:** I hosted my first meeting for the game dev interest group and was able to meet two cool people: Bob and David. I'd say that the get together was a a success and I look forward to the next event and having more discussions about game development with them.
 - **Lonnies Fishtank**: I finally finished getting the animations and dynamic bones implemented in the game. My next steps are to refine the walking scene with Lost's new assets.
+- **Fire Emblem 3 Houses**: I have been enjoying playing fire emblem quite a bit! Compared to persona 5, fire emblem has both an interesting story/characters and good tactical turn based (grid) gameplay.
 - **Home Server**: My updated list of new additions to my home server!
 
 # Meta Quest 3
