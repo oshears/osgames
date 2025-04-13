@@ -14,12 +14,16 @@ draft: true
 
 # Lonnie's Fishtank
 
-https://youtu.be/Qssx-_deGbk
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Qssx-_deGbk?si=JWRHXQNcgtNOgGAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Read more on the [Fish Head Games Website](https://fish-head-games.github.io/devlogs/devlog-7-2025-04-13/)
 
 # Meta Quest 3 Gameplay 
 
 
 
-https://youtu.be/qCvsJj2ude0
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qCvsJj2ude0?si=0RErhzQB8W-w9VjL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://youtu.be/TNkCVwCMa3c
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TNkCVwCMa3c?si=1jGFo77nzJF4foN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

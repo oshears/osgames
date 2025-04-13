@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devlogs/Devlog 25.md",
+                "file": "devlogs/Devlog 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Devlog 25"
+              "title": "Devlog 27"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "359bdde9576c8aec",
   "lastOpenFiles": [
+    "devlogs/Devlog 27.md",
+    "devlogs/Devlog 26.md",
     "devlogs/Devlog 25.md",
     "devlogs/Devlog 24.md",
     "devlogs/Devlog 23.md",
@@ -224,7 +226,6 @@
     "devlogs/Alien Game Devlog 4.md",
     "devlogs/Alien Game Devlog 5.md",
     "devlogs/Alien Game Devlog 1.md",
-    "devlogs/Alien Game Devlog 2.md",
     "Media/osgames_icon.png",
     "Media/icon.png",
     "icon.png",
