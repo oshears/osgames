@@ -5,7 +5,7 @@ date: 2025-04-13
 tags:
   - virtual-reality
   - lonnies-fishtank
-draft: true
+draft: false
 ---
 # At a glance
 - **Lonnies Fishtank**: I am finally getting back on track with making devlogs for Lonnies Fishtank. In this update I showcase the new dynamic bones asset and ui elements that the team was worked on.
