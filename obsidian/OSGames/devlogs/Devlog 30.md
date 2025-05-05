@@ -1,6 +1,6 @@
 ---
 title: "Devlog 30: Getting started with VR Game Dev in Unity"
-date: 
+date: 2025-05-05
 description: I managed to get a cool VR framework going in Unity and it made exploring some previous assets I've purchased very cool!
 tags:
   - virtual-reality
