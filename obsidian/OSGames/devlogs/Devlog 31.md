@@ -1,5 +1,5 @@
 ---
-title: "Devlog 31: Lonnies Fishtank Shaders and Updates"
+title: "Devlog 31: New Shaders for Lonnies Fishtank and Other Updates"
 date: 2025-05-14
 description: Some updates on Lonnies Fishtank including new shaders, models and the trailer jam we're working on!
 tags:
