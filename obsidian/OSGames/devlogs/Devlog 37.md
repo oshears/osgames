@@ -10,3 +10,4 @@ draft: true
 ![[inside pyramid_001.png]]
 
 ![[inner sanctum egypt_001.png]]![[harrypotter_001.png]]
+![[hermione_001.png]]

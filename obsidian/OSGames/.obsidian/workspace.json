@@ -11,14 +11,12 @@
             "id": "5547abde18101523",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "devlogs/Devlog 37.md",
-                "mode": "source",
-                "source": false
+                "file": "devlogs/media/hermione_001.png"
               },
-              "icon": "lucide-file",
-              "title": "Devlog 37"
+              "icon": "lucide-image",
+              "title": "hermione_001"
             }
           }
         ]
@@ -193,14 +191,15 @@
   },
   "active": "5547abde18101523",
   "lastOpenFiles": [
-    "harrypotter_001.png",
+    "devlogs/media/harrypotter_001.png",
+    "devlogs/Devlog 37.md",
+    "devlogs/media/hermione_001.png",
     "devlogs/Devlog 36.md",
     "devlogs/Devlog 35.md",
     "devlogs/media/inner sanctum egypt_001.png",
     "devlogs/media/base trio_001.png",
     "devlogs/media/desert background_001.png",
     "devlogs/media/inside pyramid_001.png",
-    "devlogs/Devlog 37.md",
     "devlogs/Devlog 34.md",
     "devlogs/Devlog 31.md",
     "devlogs/Devlog 30.md",
@@ -227,8 +226,6 @@
     "devlogs/Alien Game Devlog 6.md",
     "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md",
     "Templates/Lonnies Devlog Template.md",
-    "Media/osgames/osgames_logo_header.png",
-    "Media/osgames/osgames_logo_devlog.png",
     "Media/osgames",
     "drafts",
     "devlogs",
