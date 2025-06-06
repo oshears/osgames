@@ -1,5 +1,5 @@
 ---
-date: 2025-06-02
+date: 2025-06-01
 title: "Game Jam Day 1: Character Concepts"
 description: Creating some character sketches for my game jam SRPG concept game.
 tags:
