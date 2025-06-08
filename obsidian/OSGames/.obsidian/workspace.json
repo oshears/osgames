@@ -11,15 +11,44 @@
             "id": "5547abde18101523",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devlogs/Devlog 39.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devlog 39"
+            }
+          },
+          {
+            "id": "976f883242449a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devlogs/Devlog 38.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devlog 38"
+            }
+          },
+          {
+            "id": "5e65200a15664a9b",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "devlogs/media/hermione_001.png"
+                "file": "devlogs/media/enemy3_001.png"
               },
               "icon": "lucide-image",
-              "title": "hermione_001"
+              "title": "enemy3_001"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,14 +196,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d6fbc852c2dbf39d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "devlogs/Devlog 38.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Devlog 38"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +229,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5547abde18101523",
+  "active": "976f883242449a05",
   "lastOpenFiles": [
-    "devlogs/media/harrypotter_001.png",
+    "devlogs/Devlog 38-1.md",
+    "devlogs/Devlog 38.md",
+    "devlogs/Devlog 39.md",
     "devlogs/Devlog 37.md",
+    "devlogs/media/enemy3_001.png",
+    "devlogs/media/enemy 2_001.png",
+    "devlogs/media/enemies_001.png",
+    "devlogs/media/attack poses_001.png",
     "devlogs/media/hermione_001.png",
+    "devlogs/media/harrypotter_001.png",
     "devlogs/Devlog 36.md",
     "devlogs/Devlog 35.md",
     "devlogs/media/inner sanctum egypt_001.png",
@@ -206,26 +253,20 @@
     "devlogs/Devlog 29.md",
     "devlogs/Devlog 28.md",
     "devlogs/Devlog 27.md",
-    "devlogs/media/IMG_9578.jpeg",
     "devlogs/Devlog 26.md",
     "devlogs/Devlog 25.md",
     "devlogs/Devlog 24.md",
     "devlogs/Devlog 23.md",
     "devlogs/Devlog 22.md",
     "devlogs/Devlog 21.md",
-    "devlogs/media/20250319_212847.jpeg",
     "devlogs/Devlog 20.md",
     "devlogs/Devlog 19.md",
     "devlogs/Devlog 18.md",
     "devlogs/Devlog 16.md",
     "devlogs/Devlog 17.md",
-    "devlogs/media/IMG_9319.jpeg",
     "index.md",
     "Lonnies Fishtank.md",
-    "devlogs/media/new_room_assets.gif",
     "devlogs/Alien Game Devlog 6.md",
-    "Excalidraw/Drawing 2024-10-19 08.02.40.excalidraw.md",
-    "Templates/Lonnies Devlog Template.md",
     "Media/osgames",
     "drafts",
     "devlogs",
