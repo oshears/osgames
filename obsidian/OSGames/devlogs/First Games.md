@@ -1,3 +1,13 @@
+---
+title: My first game dev projects!
+date: 2022-03-01
+description: A brief overview of some game dev projects I've started working on!
+tags:
+  - synthicate
+  - settlers-of-catan
+draft: false
+---
+
 # Game Development
 
 
